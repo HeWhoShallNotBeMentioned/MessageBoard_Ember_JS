@@ -1,0 +1,16 @@
+{
+  "questions": [{
+    "title": "What is the meaning of life?",
+    "author": "Dhali Llama",
+    "notes": "The most important question of our lives."
+  },
+  {"title": "What's up doc?",
+  "author": "Bugs Bunny",
+  "notes": "He's not asking the doctor."
+},
+{
+  "title": "I pity tha fool!",
+  "author": "Mr. T",
+  "notes": "Not really a question but a statement"
+}
+]}
